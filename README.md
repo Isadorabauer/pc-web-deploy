@@ -51,6 +51,7 @@ cd /etc/apache2/sites-available
 sudo touch app.conf
 ```
 
+
 E colocar o seguinte conteudo lá dentro o app.conf
 
 com o comando 
@@ -97,3 +98,4 @@ php artisan migrate
 sudo chmod 777 -Rf storage
 ```
 
+## teste 
